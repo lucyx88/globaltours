@@ -1,0 +1,15 @@
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\bin\Debug\net6.0\Infraestructura.deps.json
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\bin\Debug\net6.0\Infraestructura.dll
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\bin\Debug\net6.0\ref\Infraestructura.dll
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\bin\Debug\net6.0\Infraestructura.pdb
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\bin\Debug\net6.0\Core.dll
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\bin\Debug\net6.0\Core.pdb
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CopyComplete
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.dll
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\ref\Infraestructura.dll
+C:\Users\Programacion\Desktop\GlobalTours\Infraestructura\obj\Debug\net6.0\Infraestructura.pdb
